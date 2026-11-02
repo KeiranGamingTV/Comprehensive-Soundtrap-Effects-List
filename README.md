@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Distortion Effects](#distortion)
+- [Distortion Effects](#distortion-effects)
 
 ## Introduction
 A comprehensive breakdown of every Soundtrap effect, what they do, some best use cases, and their controls.
@@ -30,8 +30,7 @@ _Brief description of what the effect does_
 
 <br/>
 
-## Distortion Effects 
-## _(Add grit, warmth,or bite)_
+## Distortion Effects _(Add grit, warmth, or bite)_
 ### Classic Dist
 _Warm grit that never goes out of style_
 
